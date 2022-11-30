@@ -1,2 +1,2 @@
 # RF-Wave-Propagation-Cities
-A program to simulate RF wave propagation in a city setting.
+A program to simulate RF wave propagation in a real world city setting.
