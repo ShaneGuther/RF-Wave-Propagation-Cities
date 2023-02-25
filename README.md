@@ -1,5 +1,5 @@
 # RF-Wave-Propagation-Cities
-A program to simulate RF wave propagation in a real world city setting.
+A MATLAB program to simulate RF wave propagation in a real world city setting.
 
 The user can use the GUI to change the settings of the simulation, including the location in either downtown Toronto or London as well as the materials
 in buildings and terrain in the model.  Longitude and latitude can be entered to change the location of the receiver to achieve different results.
